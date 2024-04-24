@@ -1,3 +1,3 @@
 # tic-tac-toe-react
 
-Demo link: https://lliashko.github.io/tic-tac-toe-react/
+https://countdown-game-alpha.vercel.app/
